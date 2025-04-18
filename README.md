@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hey ✋
 
+💰 I’m currently working on a web app for analyzing financial markets called [finsight](https://github.com/jonahansmulcrone/FinSight). This is using TypeScript, React, Python, FastAPI, and Redis.
+<br>🧬 I am also still making updates to the [genetic algorithm solver](https://github.com/ezrahuffman/GeneticAlgo) site that I made a while ago. This sight uses a genetic algorithm to optimize the Traveling Sales Person problem and visualizes the process.
+
+<br><br> 🔭 I am currently looking for web development roles (prefferably Full-Stack), simulation work, or any other field that might deal with interesting technical problems that my skillset could be applied to.
+
+## Background
+📖Languages: JavaScript/TypeScript, C++, Python, C#, Go, HTML/CSS (if you consider them languages)
+<br> 🖼️Frameworks/Libraries: React/React Native, FastAPI, .Net (in the context of Unity), ThreeJS
+<br> 🛠️Tools/Env: AWS, CI/CD, Databases (SQL and NoSQL), Linux, Git, Docker, Windows
+<br> 🎮Game Engines: Unreal (4 & 5), Unity
 <!--
 **ezrahuffman/ezrahuffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
