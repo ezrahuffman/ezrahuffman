@@ -10,6 +10,9 @@
 <br> 🖼️Frameworks/Libraries: React/React Native, FastAPI, .Net (in the context of Unity), ThreeJS
 <br> 🛠️Tools/Env: AWS, CI/CD, Databases (SQL and NoSQL), Linux, Git, Docker, Windows
 <br> 🎮Game Engines: Unreal (4 & 5), Unity
+
+## Links
+<br> [LinkedIn](https://www.linkedin.com/in/ezra-huffman/)
 <!--
 **ezrahuffman/ezrahuffman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
